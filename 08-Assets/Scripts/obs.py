@@ -102,6 +102,7 @@ class Page:
         if len(parts)>1:
             part = parts[1].strip()  # 去除最后的\n
             items = part.split('\n')
+            print(items)
             # print(items)
             for item in items:
                 key, value = item.split(': ')

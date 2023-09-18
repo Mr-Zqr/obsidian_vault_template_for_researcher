@@ -1,7 +1,7 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "system",
   "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "S - Images Adjustments",
@@ -16,5 +16,7 @@
     "【自定义】mytools 样式",
     "【图标】iconfont"
   ],
-  "baseFontSizeAction": false
+  "baseFontSizeAction": true,
+  "accentColor": "#955dfd",
+  "monospaceFontFamily": "YaHei Consolas Hybrid"
 }

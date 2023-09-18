@@ -1,0 +1,360 @@
+{
+  "main": {
+    "id": "9a0780749afe3857",
+    "type": "split",
+    "children": [
+      {
+        "id": "e472725ce30fda22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b79dcfb2e2388d87",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00-MOC/任务看板.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "169762c0897285b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a927cf4be47876",
+        "type": "tabs",
+        "dimension": 59.25925925925925,
+        "children": [
+          {
+            "id": "3090910a3bbb4bfa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4cc5673d41093ba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#test",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af328bc8c7dd1264",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2309a9ff9635d567",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2d3d1f4b6a566ca",
+        "type": "tabs",
+        "dimension": 40.74074074074074,
+        "children": [
+          {
+            "id": "ec1d354533e6cbd2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60ed30d1cc6d4c8d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "6e7011190a6a4416",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c47daab7a7f6b09",
+        "type": "tabs",
+        "dimension": 38.66498740554156,
+        "children": [
+          {
+            "id": "0d92b31ac7bc3511",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4bbb6d3769d62dc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f101d806a54a17c",
+        "type": "tabs",
+        "dimension": 61.33501259445844,
+        "children": [
+          {
+            "id": "450ad81cf27a4dff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-MOC/任务看板.md"
+              }
+            }
+          },
+          {
+            "id": "227681cc38450669",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-MOC/任务看板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b925b1fa789215ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Assets/Scripts/常用工具.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "templater-obsidian:Templater": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "b79dcfb2e2388d87",
+  "lastOpenFiles": [
+    "00-MOC/任务看板.md",
+    "01-Diary/日志存档/2023-09-18.md",
+    "README.md",
+    "08-Assets/Pasted image 20220322201722.png",
+    "08-Assets/Excalidraw/Drawing 2022-03-23 08.04.18.excalidraw.md",
+    "08-Assets/Excalidraw/Drawing 2022-03-23 08.45.37.excalidraw.md",
+    "08-Assets/Excalidraw/Drawing 2022-03-25 16.08.08.excalidraw.md",
+    "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/新建课题项目.md",
+    "00-MOC/00-MOC.md",
+    "09-Templates/大牛页面模板.md",
+    "03-Projects/99-黑曜石玩家指南/2-obsidian读文献/本章小结-恭喜习得内功.md",
+    "08-Assets/image.md",
+    "08-Assets/image.png",
+    "08-Assets/image_1.md",
+    "08-Assets/Pasted image 20220317195054_1.md",
+    "08-Assets/Pasted image 20220321143352_1.md",
+    "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
+    "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/工作小结与周汇报.md",
+    "06-Cards/06-Cards.md",
+    "03-Projects/03-Projects.md",
+    "03-Projects/99-黑曜石玩家指南/4-obsidian附录/obsidian第三方插件列表.md",
+    "01-Diary/月总结/2023-03-05_月总结.md",
+    "01-Diary/01-Diary.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/每周定期汇总小结.md",
+    "03-Projects/99-黑曜石玩家指南/3-obsidian做课题/规范的实验记录.md",
+    "08-Assets/Scripts/__pycache__/crossref.cpython-39.pyc",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/obsidian撰写草稿.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/开箱写日志.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md",
+    "未命名.canvas",
+    "08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",
+    "08-Assets/Pasted image 20230909155906.png",
+    "08-Assets/Pasted image 20230909151401.png",
+    "08-Assets/Pasted image 20230908091555.png",
+    "01-Diary/年总结",
+    "08-Assets/Pasted image 20230829164659.png",
+    "08-Assets/Pasted image 20230829164655.png",
+    "08-Assets/Pasted image 20230829164630.png",
+    "08-Assets/Pasted image 20230829164626.png",
+    "08-Assets/Pasted image 20230829160608.png",
+    "08-Assets/PM.mp4",
+    "08-Assets/Scripts/__pycache__/obs.cpython-38.pyc",
+    "03-Projects/02-LIKO",
+    "08-Assets/未命名00109335.mp4",
+    "08-Assets/未命名00108000.mp4",
+    "08-Assets/未命名00000961.mp4",
+    "08-Assets/未命名00000657.mp4",
+    "未命名 1.canvas"
+  ]
+}

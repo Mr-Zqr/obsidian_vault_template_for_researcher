@@ -3,10 +3,11 @@
   "trashOption": "local",
   "promptDelete": false,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 90
+    "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
   "foldIndent": true,
@@ -16,6 +17,9 @@
   "newFileFolderPath": "01-Diary/本周事务",
   "fileSortOrder": "alphabetical",
   "legacyEditor": false,
-  "livePreview": true,
-  "defaultViewMode": "source"
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "vimMode": false,
+  "spellcheck": false
 }

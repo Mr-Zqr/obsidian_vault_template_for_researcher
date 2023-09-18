@@ -34,6 +34,8 @@ def main():
     res = Counter(data)
     rank = res.most_common()
     # 排序
+
+    print(len(rank))
     assert top_n<len(rank), "Out of range!"
     for i in range(top_n):
         try:

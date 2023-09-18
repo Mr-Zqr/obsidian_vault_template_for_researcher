@@ -1,7 +1,7 @@
 ---
 title: 文献库作者排序
 date: 2021-11-11 20:10:51
-top_n: 3
+top_n: 20
 obsidianUIMode: preview
 ---
 
@@ -20,7 +20,25 @@ replace [22,122]
 ```
 ^button-7x0p
 
-### 2022-05-14
-[[Sören Doose]] : 1
-[[James M. Tsay]] : 1
-[[Fabien Pinaud]] : 1
+### 2023-09-18
+471
+[[M. Hutter]] : 16
+[[M. Fallon]] : 12
+[[M. Camurri]] : 9
+[[Axel Barrau]] : 7
+[[Silvere Bonnabel]] : 6
+[[P. Fankhauser]] : 6
+[[R. Siegwart]] : 5
+[[M. Bloesch]] : 5
+[[D. Berenson]] : 4
+[[C. Semini]] : 4
+[[L. Wellhausen]] : 4
+[[Maurice Fallon]] : 4
+[[M. Ramezani]] : 4
+[[X. Xinjilefu]] : 3
+[[K. Walas]] : 3
+[[M. Bjelonic]] : 3
+[[Marco Hutter]] : 3
+[[Guoquan Huang]] : 3
+[[S. Khattak]] : 3
+[[R. Hartley]] : 3

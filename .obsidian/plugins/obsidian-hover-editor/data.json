@@ -6,8 +6,8 @@
   "autoFocus": false,
   "rollDown": true,
   "snapToEdges": true,
-  "initialHeight": "340px",
-  "initialWidth": "400px",
+  "initialHeight": "500px",
+  "initialWidth": "600px",
   "showViewHeader": false,
   "imageZoom": true,
   "hoverEmbeds": false
