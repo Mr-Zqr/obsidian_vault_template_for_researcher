@@ -10,6 +10,13 @@ date: 2023-09-18
 
 再次感谢原作者sheldonxxd，这个项目真的太牛了。
 
+## 2023.9.23 更新
+更新生成任务甘特图的代码，带进度条
+原版甘特图：
+![](08-Assets/Snipaste_2023-09-23_09-33-32.jpg)
+新版甘特图：
+![](08-Assets/Snipaste_2023-09-23_09-32-51.jpg)
+
 下面是原仓库的readme：
 
 # obsidian_vault_template_for_researcher
