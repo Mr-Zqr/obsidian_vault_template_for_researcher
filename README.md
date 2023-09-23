@@ -9,6 +9,7 @@ date: 2022-03-13 09:57:43
 
 **❗本项目已停止更新**，已基于最新版的obsidian(v1.3.5)重新打造面向研究生的极简obsidian模板库，感兴趣可移步新开的另一个👉repo:[obsidian_vault_template_for_graduate_student](https://github.com/sheldonxxd/obsidian_vault_template_for_graduate_student)。
 
+
 ### 下载并打开vault模板库并查看说明书
 
 1. 下载安装软件：目前 obsidian 是开源免费的跨平台软件，建议[到代码仓库下载 v0.14.6 版本安装包](https://github.com/obsidianmd/obsidian-releases/releases/tag/v0.14.6)后安装（更新的版本可能存在兼容性问题）。安装后请关闭自动更新，后续也不要更新本库其它内置插件。如需回退obsidian版本，请参考[ issue 47](https://github.com/sheldonxxd/obsidian_vault_template_for_researcher/issues/47)。

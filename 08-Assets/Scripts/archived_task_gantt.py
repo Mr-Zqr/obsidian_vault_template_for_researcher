@@ -129,7 +129,7 @@ def write_gantt(data):
         sections += section
         for task in data:
             if tag in task['tags']:
-                item = f"{task['name']} :t{counter}, {task['start']}, {task['duration']}\n"
+                item = f"{task['name']} :t{counter}, {task['start']}, {task['end']}\n"
                 sections += item
                 counter += 1
     content = head + sections + '```'

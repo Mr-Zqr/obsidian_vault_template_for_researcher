@@ -16,13 +16,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "任务看板",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"00-MOC/任务看板.md\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00-MOC/任务看板.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -233,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MOC/任务看板.md"
+                "file": "README.md"
               }
             }
           },
@@ -252,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-MOC/任务看板.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
