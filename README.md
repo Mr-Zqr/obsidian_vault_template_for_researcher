@@ -1,7 +1,16 @@
 ---
-title: obsidian安装和使用说明
-date: 2022-03-13 09:57:43
+title: obsidian安装和使用说明，针对obsidian v1.4.5的适配
+date: 2023-09-18
 ---
+# 写在更前面
+
+非常感谢项目的原作者sheldonxxd大佬创造了如此优秀的obsidian vault，这个vault极大的提升了我的科研效率和幸福指数。而随着obsidian的更新，原vault中的一些插件不再适配，导致了vault中一些功能的缺失。原作者在obsidian1.3.5的基础上更新了精简版，我在使用过精简版后发现原版的一些功能还是十分必要且高效的，例如月总结、任务看板等，虽然原版的学习曲线较精简版略陡，但熟练使用之后对科研大有裨益。
+
+因此我在obsidian v1.4.5更新了原版所安装的所有插件和主题，并对已经失去维护或者有功能更新导致原vault功能出现bug的插件进行修改，保持原版vault在obsidian v1.4.5环境下工作正常，并利用原vault中的导出项目功能导出了这一模板。现在将这一vault分享至github，供有需要的朋友使用。
+
+再次感谢原作者sheldonxxd，这个项目真的太牛了。
+
+下面是原仓库的readme：
 
 # obsidian_vault_template_for_researcher
 
